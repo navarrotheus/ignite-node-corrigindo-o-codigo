@@ -74,5 +74,5 @@ Rodar a API em modo de desenvolvimento:
 <hr>
 
 <p align = "center">
-  <a href="#banner">Voltar ao topo</a>
+  <a href="#">Voltar ao topo</a>
 </p>
