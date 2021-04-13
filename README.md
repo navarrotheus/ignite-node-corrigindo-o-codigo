@@ -1,4 +1,4 @@
-<a href="https://github.com/navarrotheus/ignite-node-challenges" id="banner">
+<a href="https://github.com/navarrotheus/ignite-node-challenges">
   <img alt="Ignite Node" src="https://i.ibb.co/qrrkc3T/Background.png" />
 </a>
 
