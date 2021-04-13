@@ -1,4 +1,4 @@
-<a href="https://github.com/navarrotheus/ignite-node-challenges">
+<a href="https://github.com/navarrotheus/ignite-node-challenges" id="banner">
   <img alt="Ignite Node" src="https://i.ibb.co/qrrkc3T/Background.png" />
 </a>
 
@@ -70,3 +70,9 @@ Rodar os testes:
 
 Rodar a API em modo de desenvolvimento:
 ```yarn dev```
+
+<hr>
+
+<p align = "center">
+  <a href="#banner">Voltar ao topo</a>
+</p>
